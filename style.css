@@ -79,6 +79,3 @@ h1,h2{
 .table-of-contents a.hover{
     border-left: solid 2px black;
 }
-$(document).ready(function(){
-    $('.materialboxed').materialbox();
-  });
